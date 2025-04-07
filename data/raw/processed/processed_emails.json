@@ -1,0 +1,34 @@
+[
+  {
+    "from": "Siddartha Singirala <singiralasiddartha@gmail.com>",
+    "subject": "Internship Selection and Interview Invitation",
+    "summary": "you have been shortlisted for the *Software Development Intern* position at *TechNova Solutions* . we would like to invite you for an interview to further discuss your qualifications and potential fit for the role .",
+    "intent": "Approval",
+    "request_type": "Approval Request",
+    "ai_reply": "Hi Siddartha Singirala,\n\nThank you for your message regarding \"Internship Selection and Interview Invitation\".\n\nThank you for the invitation. I have noted the details and will check my calendar. I will confirm my availability shortly.\n\nBest regards,\nVishal"
+  },
+  {
+    "from": "ashwin 1 <ashwinkommoju07@gmail.com>",
+    "subject": "Signature Day Celebration at College – Let’s Make It Memorable!",
+    "summary": "signature day is happening on 2025-04-15 at 11:00 AM IST . it’s one of those special moments where we get to celebrate our journey, share memories, sign shirts, and snap loads of pictures together .",
+    "intent": "Approval",
+    "request_type": "Approval Request",
+    "ai_reply": "Hi ashwin 1,\n\nThank you for your message regarding \"Signature Day Celebration at College – Let’s Make It Memorable!\".\n\nI've reviewed your message and will respond appropriately. Thank you for reaching out.\n\nBest regards,\nVishal"
+  },
+  {
+    "from": "Voweldas Vishal <vishalvoweldas@gmail.com>",
+    "subject": "Latest Excluded Hospital's List",
+    "summary": "any hospitalization in these facilities will not be eligible for claim . you can review the updated list on our website, mobile app or by clicking on the following link .",
+    "intent": "Complaint",
+    "request_type": "Support Request",
+    "ai_reply": "Hi Voweldas Vishal,\n\nThank you for your message regarding \"Latest Excluded Hospital's List\".\n\nI understand your concern regarding this matter. I will look into this and get back to you with a resolution as soon as possible.\n\nBest regards,\nVishal"
+  },
+  {
+    "from": "Saketh Lingerker <saketh1805@gmail.com>",
+    "subject": "Get-together with Friends – Let’s Catch Up in Hyderabad!",
+    "summary": "I'm planning a small get-together with our gang on 2025-04-12 . it'll be a relaxed evening with lots of laughter, good food and great company .",
+    "intent": "Approval",
+    "request_type": "Approval Request",
+    "ai_reply": "Hi Saketh Lingerker,\n\nThank you for your message regarding \"Get-together with Friends – Let’s Catch Up in Hyderabad!\".\n\nI've reviewed your message and will respond appropriately. Thank you for reaching out.\n\nBest regards,\nVishal"
+  }
+]

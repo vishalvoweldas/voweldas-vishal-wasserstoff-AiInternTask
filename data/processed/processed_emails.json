@@ -1,0 +1,42 @@
+[
+  {
+    "from": "ashwin 1 <ashwinkommoju07@gmail.com>",
+    "subject": "Signature Day Celebration at College – Let’s Make It Memorable!",
+    "summary": "signature day is happening on 2025-04-15 at 11:00 AM IST . it’s one of those special moments where we get to celebrate our journey, share memories, sign shirts, and snap loads of pictures together .",
+    "intent": "Meeting",
+    "request_type": "Calendar Event",
+    "ai_reply": "Hi ashwin 1,\n\nThank you for your message regarding \"Signature Day Celebration at College – Let’s Make It Memorable!\".\n\nI've reviewed your message and will respond appropriately. Thank you for reaching out.\n\nBest regards,\nVishal\n\nI've added this event to your calendar for April 15, 2025 at 11:00 AM.",
+    "calendar_event_created": true,
+    "processed_at": "2025-04-07T14:27:05.177755"
+  },
+  {
+    "from": "Voweldas Vishal <vishalvoweldas@gmail.com>",
+    "subject": "Latest Excluded Hospital's List",
+    "summary": "any hospitalization in these facilities will not be eligible for claim . you can review the updated list on our website, mobile app or by clicking on the following link .",
+    "intent": "Complaint",
+    "request_type": "Support Request",
+    "ai_reply": "Hi Voweldas Vishal,\n\nThank you for your message regarding \"Latest Excluded Hospital's List\".\n\nI understand your concern regarding this matter. I will look into this and get back to you with a resolution as soon as possible.\n\nBest regards,\nVishal",
+    "calendar_event_created": false,
+    "processed_at": "2025-04-07T14:27:08.139725"
+  },
+  {
+    "from": "Saketh Lingerker <saketh1805@gmail.com>",
+    "subject": "Get-together with Friends – Let’s Catch Up in Hyderabad!",
+    "summary": "I'm planning a small get-together with our gang on 2025-04-12 . it'll be a relaxed evening with lots of laughter, good food and great company .",
+    "intent": "Meeting",
+    "request_type": "Calendar Event",
+    "ai_reply": "Hi Saketh Lingerker,\n\nThank you for your message regarding \"Get-together with Friends – Let’s Catch Up in Hyderabad!\".\n\nI've reviewed your message and will respond appropriately. Thank you for reaching out.\n\nBest regards,\nVishal\n\nI've added this event to your calendar for April 12, 2025 at 06:00 PM.",
+    "calendar_event_created": true,
+    "processed_at": "2025-04-07T14:27:11.048927"
+  },
+  {
+    "from": "Slack <notification@slack.com>",
+    "subject": "[Slack] Notifications from the New Workspace workspace for April 7th, 2025",
+    "summary": "#all-new-workspace View in the archives: https://newworkspace-juo5776.slack.com/x-p8693360391783-8693 360394775-8717593702372/archives/C08LDALPNNT/p1744014581305019 Email Processor Bot .",
+    "intent": "Meeting",
+    "request_type": "Calendar Event",
+    "ai_reply": "Hi Slack,\n\nThank you for your message regarding \"[Slack] Notifications from the New Workspace workspace for April 7th, 2025\".\n\nI've reviewed your message and will respond appropriately. Thank you for reaching out.\n\nBest regards,\nVishal",
+    "calendar_event_created": false,
+    "processed_at": "2025-04-07T14:27:14.450941"
+  }
+]
